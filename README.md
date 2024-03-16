@@ -1,4 +1,4 @@
-## Hello there! I'm Alexandre Barros, and I'm excited to share my coding journey 
+## Hello there! I'm Alexandre Okubo, and I'm excited to share my coding journey 
 <div align="center">
   <a href="https://github.com/okubobarros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=okubobarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
